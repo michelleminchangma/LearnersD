@@ -6,27 +6,27 @@ Le but de cette App est pour aider chercher et pratiquer des mots inconnus. Pour
 
 ### Les activités de cette App  
 LoginActivity  
-![alt text](https://github.com/mmc509/LearnersD/blob/master/readme_img/Picture1.png?raw=true "Logo Title Text 1")
+![alt text](https://github.com/michelleminchangma/LearnersD/blob/master/readme_img/Picture1.png?raw=true "Logo Title Text 1")
 
 SignupActivity  
-![alt text](https://github.com/mmc509/LearnersD/blob/master/readme_img/Picture2.png?raw=true "Logo Title Text 1")
+![alt text](https://github.com/michelleminchangma/LearnersD/blob/master/readme_img/Picture2.png?raw=true "Logo Title Text 1")
 
 GetNIPActivity    
-![alt text](https://github.com/mmc509/LearnersD/blob/master/readme_img/Picture3.png?raw=true "Logo Title Text 1")
+![alt text](https://github.com/michelleminchangma/LearnersD/blob/master/readme_img/Picture3.png?raw=true "Logo Title Text 1")
 
 MainActivity    
-![alt text](https://github.com/mmc509/LearnersD/blob/master/readme_img/Picture4.png?raw=true "Logo Title Text 1")
-![alt text](https://github.com/mmc509/LearnersD/blob/master/readme_img/Picture5.png?raw=true "Logo Title Text 1")
+![alt text](https://github.com/michelleminchangma/LearnersD/blob/master/readme_img/Picture4.png?raw=true "Logo Title Text 1")
+![alt text](https://github.com/michelleminchangma/LearnersD/blob/master/readme_img/Picture5.png?raw=true "Logo Title Text 1")
 
 WebResourcesActivity  
-![alt text](https://github.com/mmc509/LearnersD/blob/master/readme_img/Picture6.png?raw=true "Logo Title Text 1")
-![alt text](https://github.com/mmc509/LearnersD/blob/master/readme_img/Picture7.png?raw=true "Logo Title Text 1")
-![alt text](https://github.com/mmc509/LearnersD/blob/master/readme_img/Picture8.png?raw=true "Logo Title Text 1")
+![alt text](https://github.com/michelleminchangma/LearnersD/blob/master/readme_img/Picture6.png?raw=true "Logo Title Text 1")
+![alt text](https://github.com/michelleminchangma/LearnersD/blob/master/readme_img/Picture7.png?raw=true "Logo Title Text 1")
+![alt text](https://github.com/michelleminchangma/LearnersD/blob/master/readme_img/Picture8.png?raw=true "Logo Title Text 1")
 
 DocumentsActivity  
 Fonction: importer ou exporter la note des mots inconnus.  
-![alt text](https://github.com/mmc509/LearnersD/blob/master/readme_img/Picture9.png?raw=true "Logo Title Text 1")
+![alt text](https://github.com/michelleminchangma/LearnersD/blob/master/readme_img/Picture9.png?raw=true "Logo Title Text 1")
 
 LearnActivity  
-![alt text](https://github.com/mmc509/LearnersD/blob/master/readme_img/Picture10.png?raw=true "Logo Title Text 1")
-![alt text](https://github.com/mmc509/LearnersD/blob/master/readme_img/Picture11.png?raw=true "Logo Title Text 1")
+![alt text](https://github.com/michelleminchangma/LearnersD/blob/master/readme_img/Picture10.png?raw=true "Logo Title Text 1")
+![alt text](https://github.com/michelleminchangma/LearnersD/blob/master/readme_img/Picture11.png?raw=true "Logo Title Text 1")
