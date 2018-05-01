@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.michellema.learnersd.GetNIPActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="match_parent"
+            android:layout_height="120dp"
+            app:srcCompat="@drawable/logo" />
+
+        <TextView
+            android:id="@+id/tv_info"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Veuillez remplir les informations ci-dessous..."
+            android:textSize="20dp" />
+
+        <EditText
+            android:id="@+id/et_nom0"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="nom"
+            android:inputType="textPersonName" />
+
+        <EditText
+            android:id="@+id/et_email0"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="e-mail"
+            android:inputType="textWebEmailAddress" />
+
+        <Button
+            android:id="@+id/btn_saisir"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Saisir" />
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>
